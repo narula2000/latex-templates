@@ -1,5 +1,7 @@
 # Luke's LaTeX Templates and Build Files
 
+This is a fork and i use thsese as a template for my CV etc.
+
 A couple people on YouTube have asked me for my LaTeX templates, so I'm pushing them here. You can also find my compiled bibliography sheet.
 
 Most of them, like the article template, really aren't too different from the normal LaTeX form, but call all the packages I use on a daily basis.
